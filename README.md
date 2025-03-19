@@ -15,6 +15,7 @@
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the year. By analyzing various aspects of the sales data, we seek to identify trends,make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" file, containing detailed information about each sale made by the company.
@@ -37,7 +38,14 @@ In the initial data preparation phase,we performed the following tasks;
 - Which products are top sellers?
 - what are the peak sales periods?
 
+![WhatsApp Image 2025-03-19 at 4 13 28 PM (1)](https://github.com/user-attachments/assets/6424522b-cf33-4077-aac3-8d4e58b7906d)
+![WhatsApp Image 2025-03-19 at 4 13 28 PM (2)](https://github.com/user-attachments/assets/dd1b4552-f039-439c-a893-593f8ee2b4d1)
+![WhatsApp Image 2025-03-19 at 4 13 27 PM](https://github.com/user-attachments/assets/48f71c0b-b242-410f-954a-ecc6a443c954)
+
+
+
 ### Data Analysis
+
 
 One  of the Analysis in SQL:
 Total sales by pizza_size in january
